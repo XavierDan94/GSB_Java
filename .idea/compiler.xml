@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gsb" target="17" />
+      <module name="gsb" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
